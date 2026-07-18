@@ -1,4 +1,4 @@
 
 
 def lambda_function(event,context):
-    return {"Status V2":True}
+    return {"Status":"Successfully depoyed from githu"}
