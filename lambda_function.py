@@ -1,4 +1,4 @@
 
 
 def lambda_function(event,context):
-    return {"Status":True}
+    return {"Status V1":True}
